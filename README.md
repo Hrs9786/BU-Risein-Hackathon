@@ -119,7 +119,7 @@ The *Achievement NFTs DApp* is a decentralized platform designed to reward stude
 ## Contact Information
 For inquiries or support, feel free to reach out:
 
-- *Name*: Aman Shukla
+- *Name*: Nikhil Shukla
 - *Email*: your.email@example.com
 - *LinkedIn*: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
 - *GitHub*: [Your GitHub Profile](https://github.com/yourusername)
